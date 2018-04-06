@@ -1,4 +1,4 @@
-## basic-genetic-algorithm
+## Basic genetic algorithm written in Java from scracht
 A basic genetic optimization algorithm approach written in Java.
 
 ## Synopsis
